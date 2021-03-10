@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T00:11:00.421Z" agent="5.0 (X11)" version="14.4.4" etag="eNkoHp4IVoOa9UQA0mSW" type="github"><diagram id="_ek6SYgqyY9lhbv_-cLt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-10T00:31:16.257Z" agent="5.0 (X11)" etag="cjF_fYxW_tCI-r-Lsv-5" version="14.4.4" type="github">
+  <diagram id="_ek6SYgqyY9lhbv_-cLt" name="Página-1">
+    <mxGraphModel dx="868" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MbYdd58X_ggKBRUG7Usv-1" value="&lt;div&gt;Escola&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MbYdd58X_ggKBRUG7Usv-2" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MbYdd58X_ggKBRUG7Usv-1" target="MbYdd58X_ggKBRUG7Usv-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="230" as="sourcePoint" />
+            <mxPoint x="530" y="180" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MbYdd58X_ggKBRUG7Usv-3" value="&lt;div&gt;turma&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MbYdd58X_ggKBRUG7Usv-4" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MbYdd58X_ggKBRUG7Usv-5" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MbYdd58X_ggKBRUG7Usv-6" value="&lt;div&gt;professor&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MbYdd58X_ggKBRUG7Usv-7" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MbYdd58X_ggKBRUG7Usv-3" target="MbYdd58X_ggKBRUG7Usv-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="270" as="sourcePoint" />
+            <mxPoint x="760" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MbYdd58X_ggKBRUG7Usv-8" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MbYdd58X_ggKBRUG7Usv-10" value="&lt;div&gt;(1,n)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MbYdd58X_ggKBRUG7Usv-11" value="sala de aula" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MbYdd58X_ggKBRUG7Usv-12" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MbYdd58X_ggKBRUG7Usv-11" target="MbYdd58X_ggKBRUG7Usv-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="340" as="sourcePoint" />
+            <mxPoint x="600" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MbYdd58X_ggKBRUG7Usv-13" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MbYdd58X_ggKBRUG7Usv-14" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
